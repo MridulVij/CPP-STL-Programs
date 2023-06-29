@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// if i only have keys with unique values then i use this else not 
 int main()
 {
     unordered_set<int>ump;
@@ -34,7 +35,7 @@ int main()
     // ump.erase(ump.begin(), ump.end());
     // cout<<ump.size();
 
-    
+
 
     // TC - O(1)
     // SC - O(1)
